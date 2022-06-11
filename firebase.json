@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "i-simple",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
